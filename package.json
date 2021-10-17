@@ -1,0 +1,23 @@
+{
+  "name": "new-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlesyaZubkova/new-proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlesyaZubkova/new-proj/issues"
+  },
+  "homepage": "https://github.com/OlesyaZubkova/new-proj#readme",
+  "dependencies": {
+    "@olesyazubkova/ajs": "^1.0.0"
+  }
+}
